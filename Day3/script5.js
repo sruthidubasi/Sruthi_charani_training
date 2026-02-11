@@ -1,3 +1,4 @@
+//The product qty total
 var products = [
   {
     productID: 1,
